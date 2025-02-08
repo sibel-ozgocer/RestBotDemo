@@ -1,0 +1,14 @@
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\bin\Debug\net8.0\RestBotDemo.Domain.deps.json
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\bin\Debug\net8.0\RestBotDemo.Domain.runtimeconfig.json
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\bin\Debug\net8.0\RestBotDemo.Domain.dll
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\bin\Debug\net8.0\RestBotDemo.Domain.pdb
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\RestBotDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\RestBotDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\RestBotDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\RestBotDemo.Domain.AssemblyInfo.cs
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\RestBotDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\RestBotDemo.Domain.dll
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\refint\RestBotDemo.Domain.dll
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\RestBotDemo.Domain.pdb
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\RestBotDemo.Domain.genruntimeconfig.cache
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Domain\obj\Debug\net8.0\ref\RestBotDemo.Domain.dll

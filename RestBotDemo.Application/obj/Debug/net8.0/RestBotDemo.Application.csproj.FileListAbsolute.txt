@@ -1,0 +1,17 @@
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\bin\Debug\net8.0\RestBotDemo.Application.deps.json
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\bin\Debug\net8.0\RestBotDemo.Application.runtimeconfig.json
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\bin\Debug\net8.0\RestBotDemo.Application.dll
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\bin\Debug\net8.0\RestBotDemo.Application.pdb
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\bin\Debug\net8.0\RestBotDemo.Domain.dll
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\bin\Debug\net8.0\RestBotDemo.Domain.pdb
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotDemo.Application.csproj.AssemblyReference.cache
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotDemo.Application.AssemblyInfoInputs.cache
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotDemo.Application.AssemblyInfo.cs
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotD.81883778.Up2Date
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotDemo.Application.dll
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\refint\RestBotDemo.Application.dll
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotDemo.Application.pdb
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\RestBotDemo.Application.genruntimeconfig.cache
+C:\Users\ozgoc\OneDrive\Desktop\ProjeRestBot\RestBotDemo.Application\obj\Debug\net8.0\ref\RestBotDemo.Application.dll
